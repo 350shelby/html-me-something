@@ -1,1 +1,12 @@
-styles
+body {
+    background-color: #042835;
+}
+
+h6 {
+    color: #F8F8FD;
+    margin-left: 20px;
+}
+
+h1 {
+    color: #F8F8FD;
+}
